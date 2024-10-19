@@ -1,0 +1,30 @@
+-) import pandas
+-) myvar = pandas.DataFrame(mydataset)
+
+pandas series 
+
+-) import pandas as pd
+-)myvar = pd.Series(a)
+
+pandas DataFrames
+
+-) import pandas as pd
+-) df = pd.DataFrame(data)
+
+pandas read CSV 
+
+-) import pandas as pd
+-) df = pd.read_csv('data.csv')
+
+
+Pandas read Json 
+
+-) import pandas as pd
+
+-) df = pd.read_json('data.json')
+
+Pandas - Analyzing DataFrames
+
+-) import pandas as pd
+
+-) df = pd.read_csv('data.csv')
